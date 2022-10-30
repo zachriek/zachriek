@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/zachriek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zachriek" height="30" width="40" /></a>
 <a href="https://twitter.com/zachriek8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zachriek8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-zachrie-kurniawan-0a2569152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-zachrie-kurniawan-0a2569152/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-zachrie-kurniawan-0a2569152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-zachrie-kurniawan-0a2569152/" height="30" width="40" /></a>
 <a href="https://fb.com/zachriek6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zachriek6" height="30" width="40" /></a>
 <a href="https://instagram.com/zachriek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zachriek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/channel/ucfbzqwpga17_gkzotx207jq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucfbzqwpga17_gkzotx207jq" height="30" width="40" /></a>
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachriek&show_icons=true&locale=en&layout=compact" alt="zachriek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zachriek&show_icons=true&locale=en" alt="zachriek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachriek&" alt="zachriek" /></p>
