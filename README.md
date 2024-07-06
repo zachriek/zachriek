@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zachrie Kurniawan</h1>
-<h3 align="center">Full Stack Web Enthusiast</h3>
+<h3 align="center">Junior Web Developer - BNSP | Fullstack Web & Cyber Security Enthusiast | Informatics Engineering Student at University of Lampung</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zachriek&label=Profile%20views&color=0e75b6&style=flat" alt="zachriek" />
